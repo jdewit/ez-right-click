@@ -1,6 +1,7 @@
 {
   "name": "ez-right-click",
   "description": "ez-right-click",
+  "tags": ["angular", "right click"],
   "author": "Joris de Wit",
   "version": "0.0.1",
   "dependencies": {
